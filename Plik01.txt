@@ -1,10 +1,2 @@
- Volume in drive C has no label.
- Volume Serial Number is A03E-C6AD
-
- Directory of C:\Users\micha\Desktop\Git\projekt
-
-29.11.2021  19:56    <DIR>          .
-29.11.2021  19:56    <DIR>          ..
-29.11.2021  19:56                 0 Plik01.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  937ÿ865ÿ101ÿ312 bytes free
+Zmiana01
+Zmiana02
